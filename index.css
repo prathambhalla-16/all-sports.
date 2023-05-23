@@ -1,0 +1,365 @@
+header{
+    
+     height:114px;
+     width:100vw;
+     background-color: #005A9C;
+     position:absolute;
+}
+
+body{
+    margin:0;
+    background-color: #0F3460;
+    overflow-x: hidden;
+
+}
+
+.sports{
+    color:white;
+    font-family:'Poppins' , sans-serif;
+    margin-top:40px;
+    margin-bottom:29px;
+    margin-left:146px;
+    font-weight:700;
+    size:30px;
+    line-height: 35px;
+    width:151px;
+    height:41px;
+}
+
+.nav{
+    list-style: none;
+}
+
+#home{
+    margin-left:492px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    width:70px;
+    height:30px;
+    margin-top:-63px;
+    color:white;
+    border-bottom:5px solid white;
+    border-radius:3px;
+}
+
+#products{
+    margin-left:587px;
+    margin-top:-33px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    width:70px;
+    height:30px;
+    color:white;
+    
+}
+
+#contact{
+    font-family: 'Poppins', sans-serif;;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    width:70px;
+    height:30px;
+    margin-left:720px;
+    color:white;
+    margin-top:-28px;
+}
+
+
+
+button{
+    margin-bottom:44px;
+    height:57.6px;
+    width:129px;
+    border:3px solid white;
+    border-radius:10px;
+    padding:11.79px 13px 15.81px 14px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+
+}
+
+.sign{
+    display:block;
+    margin-left:1016px;
+    margin-top:-43px;
+    background-color:#005A9C;
+    color:white;
+}
+
+.login{
+    display:block;
+    margin-left:1164.5px;
+    margin-top:-103px;
+    color:#323232;}
+
+
+    
+    .content{
+        position:absolute;
+    }
+    
+#content{
+    height:906px;
+    width:1440px;
+    color:white;
+    position: absolute;
+    font-family:'Poppins', sans-serif;;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    left:146px;
+    top:216px;
+}
+    
+
+.randtext{
+    margin-top:290px;
+    padding-top:25px;
+    margin-left:146px;
+    color:white;
+    height:143px;
+    width:687px;
+    font-family:'Poppins', sans-serif;
+    font-weight:400;
+    font-size:30px;
+    line-height: 37px;
+    text-align:left;
+}
+
+.try{
+    width:200px;
+    height:50px;
+    margin-left:147.5px;
+    background-color: #E94560;
+    color:#323232;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-family:'Poppins', sans-serif;
+    border:1px solid #E94560;
+    border-radius:10px;
+}
+
+.man{
+    margin-left:868px;
+    margin-top:-400px;
+}
+
+.circles{
+    width:132px;
+    height:134px;
+    background-color:#533483;
+    border-radius:100px;
+}
+
+#shoes{
+    margin-left:324px;
+    background-image: url(shoes.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    margin-top:93px;
+
+}
+
+#shirts{
+    margin-left:537px;
+    margin-top:-133px;
+    background-image:url(shirts.png);
+    background-repeat:no-repeat;
+    background-position: center;
+
+}
+
+#shorts{
+    margin-left:750px;
+    margin-top:-133px;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-image: url(shorts.png);
+
+
+}
+
+#equipment{
+    margin-left:963px;
+    margin-top:-133px;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-image: url(equipment.png);
+}
+
+.shoes{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight:500;
+    font-size:25px;
+    line-height:34.8px;
+    position: absolute;
+    display:block;
+    width:77px;
+    height:30px;
+    margin-top:140px;
+    margin-left:27.5px;
+}
+
+.shirts{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight:500;
+    font-size:25px;
+    line-height:34.8px;
+    display:block;
+    width:77px;
+    height:30px;
+    position: absolute;
+    margin-top:140px;
+    margin-left:27.5px;
+}
+
+.shorts{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight:500;
+    font-size:25px;
+    line-height:34.8px;
+    display:block;
+    width:77px;
+    height:30px;
+    position: absolute;
+    margin-top:140px;
+    margin-left:27.5px;
+}
+
+.balls{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-weight:500;
+    font-size:25px;
+    line-height:34.8px;
+    display:block;
+    width:77px;
+    height:30px;
+    position: absolute;
+    margin-top:140px;
+    margin-left:10px;
+    text-align:left;
+}
+
+.card{
+    position:absolute;
+    height:122px;
+    width: 319px;
+    background-color: #005A9C;
+    display:block;
+    margin-top:72px;
+    margin-left:147px;
+    border-top:20px solid #E94560;
+    border-radius:10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.award{
+    display:block;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color:white;
+    
+}
+
+#award{
+    margin-top:-19px;
+}
+
+.column{
+    position:absolute;
+    height:122px;
+    width: 319px;
+    background-color: #005A9C;
+    display:block;
+    margin-top:72px;
+    margin-left:561px;
+    border-top:20px solid #E94560;
+    border-radius:10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.products{
+    display:block;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color:white;
+    
+}
+
+#two{
+    margin-top:-19px;
+}
+
+.row{
+    position:absolute;
+    height:122px;
+    width: 319px;
+    display:block;
+    margin-top:72px;
+    margin-left:974px;
+    border-top:20px solid #E94560;
+    background-color: #005A9C;
+    border-radius:10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.visitor{
+    display:block;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color:white;
+}
+
+.three{
+    margin-top:-19px;
+}
+
+footer{
+    
+    height:40px;
+    width:100vw;
+    display:block;
+    margin-top:300px;
+    color:white;
+    font-family:'Poppins', sans-serif;
+    background-color: #005A9C;
+    text-align:center;
+    padding-top:16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.5px;
+}
